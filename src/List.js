@@ -73,22 +73,22 @@ export default function InteractiveList() {
                   Community Access
                 </Typography>
 
-                <Typography varient="h3" component="p">
+                <Typography varient="h3" component="p" className="text-muted">
                   <CloseIcon />
                   Unlimited Private Projects
                 </Typography>
 
-                <Typography varient="h3" component="p">
+                <Typography varient="h3" component="p" className="text-muted">
                   <CloseIcon />
                   Dedicated Phone Support
                 </Typography>
 
-                <Typography varient="h3" component="p">
+                <Typography varient="h3" component="p" className="text-muted">
                   <CloseIcon />
                   <span>Free Subdomain</span>
                 </Typography>
 
-                <Typography varient="h3" component="p">
+                <Typography varient="h3" component="p" className="text-muted">
                   <CloseIcon />
                   Monthly Status Reports
                 </Typography>
@@ -170,7 +170,7 @@ export default function InteractiveList() {
                     <span>Free Subdomain</span>
                   </Typography>
 
-                  <Typography varient="h3" component="p">
+                  <Typography varient="h3" component="p" className="text-muted">
                     <CloseIcon />
                     Monthly Status Reports
                   </Typography>
